@@ -1,7 +1,7 @@
 # XUL4 Chikenjob
 
 ### Contact
-Author: XUL4#0140
+Author: XUL4#4444
 
 ### Requirements
 - mythic_progbar
